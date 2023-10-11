@@ -68,6 +68,16 @@ public class Car {
 		this.registration_number = registration_number;
 	}
 	
+	@Override
+	public String toString() {
+		return this.getId() 
+				+ "\t" + this.getBrand()
+				+ "\t" + this.getModel()
+				+ "\t" + this.getColor()
+				+ "\t" + this.getYear()
+				+ "\t" + this.getPrice();
+	}
+	
 }
 
 
