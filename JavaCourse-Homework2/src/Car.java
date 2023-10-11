@@ -78,6 +78,15 @@ public class Car {
 				+ "\t" + this.getPrice();
 	}
 	
+	public String toStringByComma() {
+		return this.getId() 
+				+ "," + this.getBrand()
+				+ "," + this.getModel()
+				+ "," + this.getColor()
+				+ "," + this.getYear()
+				+ "," + this.getPrice();
+	}
+	
 }
 
 
