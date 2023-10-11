@@ -1,0 +1,3 @@
+7,Porsche,Sedan,Blue,2014,309863
+36,Audi,Van,Red,2014,245763
+42,Ferrari,SUV,Red,2014,305504

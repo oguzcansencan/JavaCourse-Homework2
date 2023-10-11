@@ -1,0 +1,11 @@
+5,Audi,Sedan,Red,2018,147008
+7,Porsche,Sedan,Blue,2014,309863
+15,Ferrari,Sedan,White,2010,222732
+22,Audi,Sedan,White,2010,338572
+24,Audi,Sedan,White,2018,135093
+25,Ferrari,Sedan,Black,2017,342845
+26,Porsche,Sedan,Blue,2011,317439
+35,Nissan,Sedan,Blue,2010,342814
+39,Ferrari,Sedan,White,2012,220397
+43,Ferrari,Sedan,White,2017,328323
+50,Porsche,Sedan,Black,2013,261780

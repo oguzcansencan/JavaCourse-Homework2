@@ -1,0 +1,9 @@
+2,Porsche,SUV,Black,2019,171671
+7,Porsche,Sedan,Blue,2014,309863
+17,Porsche,Van,White,2018,185503
+18,Porsche,Van,Red,2017,210772
+26,Porsche,Sedan,Blue,2011,317439
+37,Porsche,SUV,White,2012,114925
+45,Porsche,SUV,Black,2019,110326
+49,Porsche,SUV,Black,2013,160454
+50,Porsche,Sedan,Black,2013,261780
