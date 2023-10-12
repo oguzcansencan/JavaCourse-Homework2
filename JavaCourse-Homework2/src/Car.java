@@ -1,13 +1,13 @@
 
 public class Car {
 
-	int id;	
-	String brand;
-	String model;
-	int year;
-	String color;
-	int price;
-	String registration_number;
+	private int id;	
+	private String brand;
+	private String model;
+	private int year;
+	private String color;
+	private int price;
+	private String registration_number;
 	
 	public Car() {
 		
