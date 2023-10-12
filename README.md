@@ -22,13 +22,13 @@ Oguzcan Sencan (7216782) - Master Digital Transformation
         - getCarsByBrand(Car[] arr, String brand)
         - getCarsByModelAndAge(Car[] arr, String model, int age)
         - getCarsByYearAndPrice(Car[] arr, int year, int price)
+   
+The three methods above are created to select cars depending on the specific attributes.
 
         - printCars(List<Car> list)     
-        - exportToTXT(String filename, List<Car> list)  
-  
-These first three methods above are created to select cars depending on the specific attributes.
+        - exportToTXT(String filename, List<Car> list) 
 
-The last two methods are created to display the filtered lists.
+The last two methods above are created to display the filtered lists.
 
 Cars are created by random values and the four TXT files can be found in the project
         
